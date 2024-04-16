@@ -1,10 +1,10 @@
 # CoachConnect Backend
 
-_Este proyecto consiste en una plataforma web dedicada a la reserva de tutorías. Los usuarios tienen la opción de registrarse como estudiantes y explorar una variedad de tutorías en áreas como matemáticas, física, química, español, entre otras. En la página de inicio, se muestran las tutorías disponibles en forma de tarjetas, cada una con información detallada que incluye el nombre del tutor, la descripción de la tutoría y fotos relacionadas con el curso. Los usuarios registrados pueden iniciar sesión para añadir tutorías a sus favoritos y dejar reseñas sobre sus experiencias y hacer la reserva de la tutoria seleccionada.
+_Este proyecto consiste en una plataforma web dedicada a la reserva de tutorías. Los usuarios tienen la opción de registrarse como estudiantes y explorar una variedad de tutorías en áreas como matemáticas, física, química, español, entre otras. En la página de inicio, se muestran las tutorías disponibles en forma de tarjetas, cada una con información detallada que incluye el nombre del tutor, la descripción de la tutoría y fotos relacionadas con el curso. Los usuarios registrados pueden iniciar sesión para añadir tutorías a sus favoritos y dejar reseñas sobre sus experiencias y hacer la reserva de la tutoria seleccionada._
 
-El administrador de la plataforma cuenta con permisos especiales que le permiten gestionar las tutorías, registrar nuevos tutores y añadir o eliminar características y categorías.
+_El administrador de la plataforma cuenta con permisos especiales que le permiten gestionar las tutorías, registrar nuevos tutores y añadir o eliminar características y categorías._
 
-Para visualizar la página web en acción, puedes hacer clic en el siguiente enlace: https://www.coachconnect.tech/_
+_Para visualizar la página web en acción, puedes hacer clic en el siguiente enlace: https://www.coachconnect.tech/_
 
 ## Tecnologías utilizadas ⚙️
 
